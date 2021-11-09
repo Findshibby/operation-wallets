@@ -1,1 +1,61 @@
-# operation-wallets
+
+0x91B1010d2F4d9cb7bE7E3dAeE232C461716b84F0
+Operations Wallet
+https://bscscan.com/tx/0x410b881e0461211834c24782f5fbb5d07ae872e3226213b61bdf8021d15fdf11
+
+Exclude from dividenden
+https://bscscan.com/tx/0x476766af10a635f55cac8dad38fe63e926b365b1aa265a2cfb8512bf2f8a0693
+
+
+0x51E243AEDa1a9b20eCC6E8140246A564bF9DfF22
+Charity wallet
+https://bscscan.com/tx/0xfbbe0fca30f033762057032b8b85a96d0865c29a08a547441677cc4edfdc330f
+
+Exclude from dividenden
+https://bscscan.com/tx/0xb21368a775f1759aed44c315f2dab26046fb5dea484b0e5582d8287aab84c53a
+
+
+0x4e01CC1101DEe37881AD84B6d5D1a06975280934
+Shibby Wallet
+https://bscscan.com/tx/0xbc0cc1273609b832172f3a5249a6ef87cf6555c573c953fbff9f0b0cc71f0a1c
+
+
+Active operation wallets:
+
+Marketing Wallet 1:
+0xf7744945cF148d20a89984286f0625f77A44812B
+Exclude from dividenden
+https://bscscan.com/tx/0xda1941cb4726d62db91a96c6b507c91812832d3ab316668d735200dd53abd62c
+
+Marketing Wallet 2
+
+Marketing Wallet 3
+0xdE8021Be4715988747857963cD2F0A23134ec898
+Exclude from dividenden
+https://bscscan.com/tx/0xe33c9fd518a809adc149cf1072579a185cf653157bb13ecf2c815dda738290aa
+
+Emergency Marketing Wallet 4:
+0x26A2dADb181e9c7d7CD9851a53c755be1068E327
+https://bscscan.com/tx/0xeae3d7dcebbb840a39d945611f048bb1f15acd17ef67d95a184e95488f6adaae
+
+Payment Team & Giveaway Wallet:
+0xe353e25CA6d81BbB528738247BE004Ff6274E363
+https://bscscan.com/tx/0x02606d80e7a944e224ccd6f33ab836b521bdd5b47a97fd7e4b749c67ee3be3f9
+
+
+Charity wallet:
+0x7F6241C407c03E38CfA4D5A77B20FCf5cbd896E9
+https://bscscan.com/tx/0x0495cb797f4d89cd404e51bc68a33fcd072c392f33ddde92d7112496c0d87c52
+
+
+Launch tokennomics (first 24hours)
+
+Company wallet
+0x3AB668475B74511799e8ba7c8d8129dC2971b79F
+
+
+Trading wallet
+0x6c93f4f39ead4Fc6B65D61869b18E1238f17098E
+
+Burn 3%
+https://bscscan.com/tx/0x09d35e0c51788cb5157eaf1f4ea46671af6d28e83746a956360a24612596a7bc
